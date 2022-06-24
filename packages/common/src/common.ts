@@ -1,0 +1,1 @@
+export  const someText="SOME TEXT 1"
