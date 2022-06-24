@@ -1,1 +1,1 @@
-export  const someText="SOME TEXT 1"
+export  const someText="SOME TEXT 2"
