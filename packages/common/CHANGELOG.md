@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/fboucquez/lerna-getting-started-example/compare/common@0.1.2...common@0.2.0) (2022-06-24)
+
+
+### Features
+
+* some feat ([32e91b8](https://github.com/fboucquez/lerna-getting-started-example/commit/32e91b87abc7f910ac144a9e641593c8894761c4))
+
+
+
+
+
 ## [0.1.2](https://github.com/fboucquez/lerna-getting-started-example/compare/common@0.0.2...common@0.1.2) (2022-06-24)
 
 
