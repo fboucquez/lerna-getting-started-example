@@ -1,3 +1,16 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [0.0.4](https://github.com/fboucquez/lerna-getting-started-example/compare/footer@0.0.2...footer@0.0.4) (2022-06-24)
+
+**Note:** Version bump only for package footer
+
+
+
+
+
 # footer
 
 ## 0.0.3
